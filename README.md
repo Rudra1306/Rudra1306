@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rudra1306
 - 👀 I’m interested in Ios Development
 - 🌱 I’m currently learning things..
-- 💞️ I’m looking to collaborate on any projects on data science
+- 💞️ I’m looking to collaborate on any projects on IOS Projects
 - 📫 Reach me by my mail :- rudraparikh6@gmail.com
 
 <!---
